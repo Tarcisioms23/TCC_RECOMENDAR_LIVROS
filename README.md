@@ -38,7 +38,7 @@ PUC Minas - TCC Ciência de Dados e Big Data
 ---
 ## **Executando Projeto**
 Importar os datasets no COLAB.
-Basta executar o arquivo TCC_PUC_MINAS_RECOMENDAÇÕES_LIVROS.ipynb 
+E executar o arquivo TCC_PUC_MINAS_RECOMENDAÇÕES_LIVROS.ipynb 
 
 ## **Link video Youtube**
 
