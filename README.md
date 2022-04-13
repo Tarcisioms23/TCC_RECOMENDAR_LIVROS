@@ -39,3 +39,8 @@ PUC Minas - TCC Ciência de Dados e Big Data
 ## **Executando Projeto**
 
 Basta executar o arquivo TCC_PUC_MINAS_RECOMENDAÇÕES_LIVROS.ipynb
+
+
+## **Link video Youtube**
+
+[Clique aqui](https://www.youtube.com/watch?v=ugUZBTN-mAw&t=6s) para abrir o video
