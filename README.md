@@ -1,4 +1,4 @@
-# **📚TCC - Pós Graduação em Ciência de Dados e Big Data📚** 
+# **📚TCC - Pós Graduação em Ciência de Dados e Big Data** 
 ---
 
 PUC Minas - TCC Ciência de Dados e Big Data
