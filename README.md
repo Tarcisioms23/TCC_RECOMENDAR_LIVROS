@@ -3,15 +3,16 @@
 
 PUC Minas - TCC Ciência de Dados e Big Data
 
-##**Estrutura do Projeto**
-    ├── Raíz
+## **Estrutura do Projeto**
+   
+    ├── Raíz    
     │   ├── Conjunto de dados
     │   ├── Notebook
     │   ├── PDF
     │   ├── TCC_PUC_MINAS_RECOMENDAÇÕES_LIVROS.ipynb
 
 ---
-##**Requisitos**
+## **Requisitos**
 
 
 *   [Python](https://www.python.org/)
@@ -19,22 +20,22 @@ PUC Minas - TCC Ciência de Dados e Big Data
 
 
 ---
-##**Local datasets**
+## **Local datasets**
 
 *   Pasta: Conjunto de dados
 
-##**Local PDF**
+## **Local PDF**
 
 
 *   Pasta: PDF
 
-##**Local projeto ipynb**
+## **Local projeto ipynb**
 
 
 *   Pasta: Notebook
 
 
 ---
-##**Executando Projeto**
+## **Executando Projeto**
 
 Basta executar o arquivo TCC_PUC_MINAS_RECOMENDAÇÕES_LIVROS.ipynb
