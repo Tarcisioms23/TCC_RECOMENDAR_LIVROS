@@ -27,7 +27,7 @@ PUC Minas - TCC Ciência de Dados e Big Data
 ## **Local PDF**
 
 
-*   Pasta: PDF
+*   [Pasta: PDF](https://github.com/Tarcisioms23/TCC_RECOMENDAR_LIVROS/tree/main/PDF)
 
 ## **Local projeto ipynb**
 
