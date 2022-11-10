@@ -32,7 +32,7 @@ PUC Minas - TCC Ciência de Dados e Big Data
 ## **Local projeto ipynb**
 
 
-*   Pasta: Notebook
+*   [Pasta: Notebook](https://github.com/Tarcisioms23/TCC_RECOMENDAR_LIVROS/tree/main/Notebook)
 
 
 ---
